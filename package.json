@@ -1,0 +1,23 @@
+{
+  "name": "make-appointments",
+  "version": "1.0.0",
+  "description": "Make appointments to learn course!",
+  "main": "make-appointments-for-coach.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimmieMax/make-appointments.git"
+  },
+  "keywords": [
+    "appointment",
+    "mocha"
+  ],
+  "author": "Jimmie Max",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimmieMax/make-appointments/issues"
+  },
+  "homepage": "https://github.com/JimmieMax/make-appointments#readme"
+}
