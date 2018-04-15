@@ -4,7 +4,11 @@
   "description": "Make appointments to learn course!",
   "main": "make-appointments-for-coach.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test-t": "mocha make-appointments-for-teacher",
+    "test-l": "mocha make-appointments-for-learner"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.5"
   },
   "repository": {
     "type": "git",
